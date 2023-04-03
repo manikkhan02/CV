@@ -1,0 +1,30 @@
+body {
+    background-color: #cdbf3c7b;
+}
+
+hr {
+    border-color: rgb(228, 0, 253);
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 7%;
+}
+h1 {
+    color: rgb(20, 20, 222);
+    font-size: 40px;
+}
+h4 {
+    background-color: bisque;
+    color: #6f31ebaa;
+    font-size: 18px;
+}
+
+.bio_name {
+    background-color: rgb(135, 226, 195);
+}
+.contact_form {
+    background-color: bisque;
+}
+.education {
+    background-color: rgb(125, 199, 126);
+}
